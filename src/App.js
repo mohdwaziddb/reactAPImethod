@@ -1,6 +1,6 @@
 import './App.css';
 import React, { useState, useEffect } from 'react'
-import "../../reactAPImethod/src/components/style.css"
+import "../src/components/style.css"
 
 const api = "https://employee-api-data.onrender.com/data_array";
 
