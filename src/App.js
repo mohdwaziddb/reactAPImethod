@@ -2,7 +2,8 @@ import './App.css';
 import React, { useState, useEffect } from 'react'
 import "../../reactAPImethod/src/components/style.css"
 
-const api = "http://localhost:8000/data_array/";
+//const api = "http://localhost:8000/data_array/";
+const api = "https://employee-api-data.onrender.com/data_array";
 
 function App() {
 
